@@ -1,0 +1,20 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "xprotocol",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 33060,
+            "driver": "MySQL",
+            "name": "sql_connection",
+            "database": "udya_Tech",
+            "username": "root",
+            "password": "Shubham@999#",
+            "connectionTimeout": 30
+        }
+    ]
+}

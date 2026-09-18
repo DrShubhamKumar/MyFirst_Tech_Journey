@@ -1,0 +1,13 @@
+Summary 
+(a) We can pass parameters to a program at command line using the 
+concept of ‘command-line arguments’. 
+(b) The command line argument argv contains values passed to the 
+program, whereas, argc contains number of arguments. 
+(c) We can use the standard file pointer stdin to take input from 
+standard input device, such as keyboard. 
+(d) We can use the standard file pointer stdout to send output to the 
+standard output device, such as a monitor. 
+(e) Redirection allows a program to read from or write to files at 
+command prompt. 
+(f) 
+The operators < and > are called redirection operators. 
